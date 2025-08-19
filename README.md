@@ -22,3 +22,6 @@ This tool is going to use REST APIs to collect data from various sources and the
 
 Additionally this project will utilize:
 - React
+- Google Cloud
+- Maps JavaScript API
+- Places API
