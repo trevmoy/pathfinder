@@ -25,3 +25,5 @@ Additionally this project will utilize:
 - Google Cloud
 - Maps JavaScript API
 - Places API
+
+<!-- To restart/run server:  npm run dev-->
